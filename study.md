@@ -47,4 +47,3 @@ No Airflow, um executor é o componente que reamnete executa as tarefas definida
 
 
 # 4 - Building production pipelines in Airflow
-
